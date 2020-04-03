@@ -2,8 +2,6 @@
 branches:
 - master
 projects:
-  FormAPI:
-    path: ""
   libFormAPI:
     path: ""
     type: library
